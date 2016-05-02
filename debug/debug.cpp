@@ -41,7 +41,7 @@ void CID(int crs) //assigns each class a unique ID. (side note: this optional --
 	cin >> t;
 	cout << "Semester: (F = Fall or S = Spring) ";
 	cin >> csmtr;
-	if (csmtr == "F")
+	if (csmtr == "F"|| csmtr == "f")
 	{
 		d = 'F';
 	}
@@ -102,6 +102,7 @@ void MReqs(char *N, int v, string m, int tC) // writes the required courses text
 				x << "Required Course #" << y << ": " << a << "| | Credit(s): " << z << endl;
 				cout << "Does this course have co- or pre-requisites? Y/N";
 				cin >> b;
+				cout << b << endl;
 				while (b != "N" || b != "n" || b != "Y" || b != "y")
 				{
 					cout << "\n You may only respond with [Y]es or [N]o. Please enter either y, n, Y, or N. \nDoes this course have co- or pre-requisites? Y/N" << endl;

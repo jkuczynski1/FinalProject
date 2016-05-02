@@ -1,5 +1,3 @@
 ****************************************************************
-Requirements for: compsci                      Total Credit Hours: 60
+Requirements for: comp                      Total Credit Hours: 3
 ****************************************************************
-Required Course #1: comp130| | Credit(s): 6
---->(Co/Pre)-requisite #1: comp120| | Credit(s): 6
