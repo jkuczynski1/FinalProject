@@ -1,0 +1,9 @@
+﻿  v04_1_May2016.cpp
+c:\users\jjk\documents\visual studio 2015\projects\final_debug\final_debug\v04_1_may2016.cpp(73): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\jjk\documents\visual studio 2015\projects\final_debug\final_debug\v04_1_may2016.cpp(288): warning C4101: 's3': unreferenced local variable
+c:\users\jjk\documents\visual studio 2015\projects\final_debug\final_debug\v04_1_may2016.cpp(288): warning C4101: 's4': unreferenced local variable
+c:\users\jjk\documents\visual studio 2015\projects\final_debug\final_debug\v04_1_may2016.cpp(500): warning C4101: 's3': unreferenced local variable
+c:\users\jjk\documents\visual studio 2015\projects\final_debug\final_debug\v04_1_may2016.cpp(500): warning C4101: 's4': unreferenced local variable
+c:\users\jjk\documents\visual studio 2015\projects\final_debug\final_debug\v04_1_may2016.cpp(140): warning C4715: 'seek': not all control paths return a value
+c:\users\jjk\documents\visual studio 2015\projects\final_debug\final_debug\v04_1_may2016.cpp(281): warning C4715: 'PReqs': not all control paths return a value
+  final_debug.vcxproj -> C:\Users\jjk\Documents\Visual Studio 2015\Projects\final_debug\Debug\final_debug.exe
