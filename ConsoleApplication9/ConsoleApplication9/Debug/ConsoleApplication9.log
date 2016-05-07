@@ -1,0 +1,6 @@
+﻿  ConsoleApplication9.cpp
+c:\users\jjk\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\consoleapplication9.cpp(81): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\jjk\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\consoleapplication9.cpp(186): warning C4715: 'RTF': not all control paths return a value
+c:\users\jjk\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\consoleapplication9.cpp(287): warning C4715: 'RSk': not all control paths return a value
+c:\users\jjk\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\consoleapplication9.cpp(340): warning C4715: 'PReqs': not all control paths return a value
+  ConsoleApplication9.vcxproj -> c:\users\jjk\documents\visual studio 2015\Projects\ConsoleApplication9\Debug\ConsoleApplication9.exe
