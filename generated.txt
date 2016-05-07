@@ -1,0 +1,22 @@
+****************************************************************
+Requirements for: EXAMPLE MAJOR                Total Credit Hours: 9
+================================================================
+Required Course # 1:EX#1 |*| Credit Hours: 3|*| CID: FM22093Y0001
+Required Course # 1:EX#1 |*| Credit Hours: 3|*| CID: FM22093Y0001
+Required Course # 2:EX#2 |*| Credit Hours: 3|*| CID: SM5578Y0001
+	-->Pre-requisite #1: PEX1|*| Credit hours: 3 |*|  CID: FM30633Y0002
+
+
+
+****************************************************************
+General Requirements                       Total Credit Hours: 12
+================================================================
+Required Course # 1:G1 |*| Credit Hours: 3|*| CID: FG29083Y0003
+	-->Co-requisite #1: CG1|*| Credit hours: 3 |*|  CID: SG15155Y0004
+Required Course # 2:CG2 |*| Credit Hours: 3|*| CID: SG11319Y0003
+	-->Pre-requisite #1: PMX#1|*| Credit hours: 3 |*|  CID: SG7196Y0004
+Required Course # 3:X |*| Credit Hours: 3|*| CID: SG20864Y0003
+
+
+
+

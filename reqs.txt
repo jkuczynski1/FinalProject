@@ -1,0 +1,34 @@
+****************************************************************
+Requirements for: COMP-BS MAJOR                Total Credit Hours: 51
+================================================================
+Required Course # 1:COMP163 |*| Credit Hours: 3|*| CID: FM22093Y0001
+Required Course # 2:COMP170 |*| Credit Hours: 3|*| CID: SM5578Y0001
+	-->Co/Prequisite #1: COMP150|*| Credit hours: 3 |*|  CID: FM22494Y0001
+Required Course # 3:COMP264 |*| Credit Hours: 3|*| CID: FM31093Y0002
+	-->Co/Prequisite #1: COMP170|*| Credit hours: 3 |*|  CID: SM4440Y0001
+	-->Co/Prequisite #2: COMP163|*| Credit hours: 3 |*|  CID: FM20238Y0001
+Required Course # 4:COMP271 |*| Credit Hours: 3|*| CID: SM17Y0002
+	-->Co/Prequisite #1: COMP170|*| Credit hours: 3 |*| 
+	-->Co/Prequisite #2: COMP163|*| Credit hours: 3 |*| 
+Required Course # 5:COMP312 |*| Credit Hours: 3|*| CID: SM31626Y0002
+	-->Co/Prequisite #1: COMP271|*| Credit hours: 3 |*| 
+Required Course # 6:COMP313 |*| Credit Hours: 3|*| CID: SM9460Y0002
+	-->Co/Prequisite #1: COMP271|*| Credit hours: 3 |*| 
+Required Course # 7:COMP317 |*| Credit Hours: 3|*| CID: FM16463Y0002
+Required Course # 8:COMP331 |*| Credit Hours: 3|*| CID: FM1740Y0004
+	-->Co/Prequisite #1: COMP163|*| Credit hours: 3 |*| 
+	-->Co/Prequisite #2: COMP170|*| Credit hours: 3 |*| 
+Required Course # 9:COMP340 |*| Credit Hours: 3|*| CID: FM22811Y0003
+	-->Co/Prequisite #1: COMP170|*| Credit hours: 3 |*| 
+	-->Co/Prequisite #2: COMP317|*| Credit hours: 3 |*| 
+Required Course # 10:COMP363 |*| Credit Hours: 3|*| CID: FM9410Y0003
+	-->Co/Prequisite #1: COMP163|*| Credit hours: 3 |*|
+	-->Co/Prequisite #2: COMP271|*| Credit hours: 3 |*| 
+ 	-->Co/Prequisite #3: MATH161|*| Credit hours: 3 |*|  CID: FM9252Y0001
+Required Course # 11:COMP374 |*| Credit Hours: 3|*| CID: SM30081Y0003
+	-->Co/Prequisite #1: COMP264|*| Credit hours: 3 |*| 
+Required Course # 12:COMP390 |*| Credit Hours: 3|*| CID: FM23147Y0003
+Required Course # 13:COMP398 |*| Credit Hours: 3|*| CID: SM31882Y0003
+Required Course # 14:MATH161 |*| Credit Hours: 4|*| 
+	-->Co/Prequisite #1: MATH118|*| Credit hours: 3 |*|  CID: FM6555Y0001
+Required Course # 15:MATH162 |*| Credit Hours: 3|*| CID: SM12342Y0001
